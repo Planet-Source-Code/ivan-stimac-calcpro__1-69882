@@ -1,0 +1,10 @@
+FX:gamma ($x)
+FC:32768
+FX:gammaIncLwr ($x ; 1)
+FC:192
+FX:gammaIncUpr ($x ; 1)
+FC:8438015
+FX:gammaIncP ($x ; 1)
+FC:16744576
+FX:gammaIncQ ($x ; 1)
+FC:8388736
