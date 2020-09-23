@@ -1,0 +1,8 @@
+FX:sin($x)
+FC:8421631
+FX:cos($x)
+FC:49344
+FX:cos($x)+5
+FC:32768
+FX:sin($x)+5
+FC:12582912

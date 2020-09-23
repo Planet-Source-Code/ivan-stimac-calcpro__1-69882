@@ -1,0 +1,10 @@
+//neke matematicke konstante
+
+$pi = 3.14159265358979
+
+
+//varijable koje se cesto koriste 
+//	kod racunanja
+
+$x = 0
+$y = 0
